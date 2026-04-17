@@ -110,7 +110,7 @@ npm install -g vercel
 **2. Clone the repository and navigate into it:**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/UkannaRaymond/API-Integration---Data-Processing.git
 cd your-repo
 ```
 
